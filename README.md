@@ -1,7 +1,7 @@
 # Student-Map
 Beetroot Academy - Lesson 37
 
-LIVE URL: https://mirinkakotze.github.io/Student-Map/
+Live Page URL: https://mirinkakotze.github.io/Student-Map/
 
 Use Google Maps API and all your colleague's locations to make a student map.
 
